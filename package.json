@@ -1,0 +1,19 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "react project description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dimanhim/React.git"
+  },
+  "author": "Dimas1202",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dimanhim/React/issues"
+  },
+  "homepage": "https://github.com/Dimanhim/React#readme"
+}

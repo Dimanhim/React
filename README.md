@@ -1,2 +1,2 @@
 # React
-React teach project
+Readme file for react study
