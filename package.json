@@ -4,7 +4,9 @@
   "description": "react project description",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --mode development",
+    "lint": "eslint ./src"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/Dimanhim/React/issues"
   },
-  "homepage": "https://github.com/Dimanhim/React#readme"
+  "homepage": "https://github.com/Dimanhim/React#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "webpack": "^5.45.1",
+    "webpack-cli": "^4.7.2"
+  }
 }
